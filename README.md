@@ -15,7 +15,7 @@
 - 固定穴：70mmピッチ, φ3.2 × 2穴
 
 ## 販売  
-[スイッチサイエンス委託販売ページ](https://www.switch-science.com/catalog/6862/)  
+[スイッチサイエンス委託販売ページ](https://www.switch-science.com/catalog/6862/)（ボックスヘッダ付）  
 ※大量注文や在庫に関する問い合わせは[こちら](mailto:info.y2kb@gmail.com)までご連絡ください。
 
 ## 寸法
